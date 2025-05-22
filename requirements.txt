@@ -6,7 +6,7 @@ dash-table
 Flask
 itsdangerous
 Jinja2
-MarkupSaf
+MarkupSafe
 numpy
 pandas
 plotly
