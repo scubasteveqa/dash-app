@@ -1,8 +1,8 @@
 click
 dash
-dash-core-components
-dash-html-components
-dash-table
+#dash-core-components
+#dash-html-components
+#dash-table
 Flask
 itsdangerous
 Jinja2
